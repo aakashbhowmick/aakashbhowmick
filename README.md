@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm based in Bangalore, India. Work on high-performance C/C++.
+
 <!--
 **aakashbhowmick/aakashbhowmick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
